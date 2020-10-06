@@ -5,6 +5,7 @@
 
 ### 論文のリンク
 [pdf]()
+[<img src="https://img.shields.io/badge/-arXiv-B31B1B?style=flat-square&logo=arXiv&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/-code-181717?style=flat-square&logo=GitHub&logoColor=white"/>]()
 
 ## 概要
