@@ -4,7 +4,8 @@
 ### 投稿先
 
 ### 論文のリンク
-[pdf]()
+[pdf]()</br>
+[<img src="https://img.shields.io/badge/-code-181717?style=flat-square&logo=GitHub&logoColor=white"/>]()
 
 ## 概要
 - 図
